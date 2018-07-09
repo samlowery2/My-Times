@@ -102,6 +102,11 @@ width: 100%;
   width: 240px
 
 }
+
+.bottom {
+  display: flex;
+}
+
 .momtitle {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
   display: inline-flex;
@@ -110,9 +115,9 @@ width: 100%;
   font-size: 40px;
   color: white;
   align-content: flex-start;
-  width: 629px;
+  width: 630px;
   height: 300px;
-  margin: 0 auto;
+
 }
 
 .earth {
@@ -138,6 +143,13 @@ width :299px;
   width:300px;
 }
 
+.rightbottom{
+  width: 300px;
+}
+
+.leftbottom{
+  width:300px;
+}
 .main p{
 
 }
