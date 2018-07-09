@@ -41,6 +41,13 @@ width: 100%;
     top: 65px;
 }
 
+.leftbottom{
+  width: 300px;
+}
+
+.rightbottom{
+  width: 300px;
+}
 .first {
   display:inline-block;
   width: 630px;
